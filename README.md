@@ -1,2 +1,4 @@
 # Data-Science
-All the stuff related to learning Data Science
+All the stuff related to learning Data Science.
+Here is all the stuff 've learnt in the Data Scinece field but not limited to it.
+Everyday learning new things.
